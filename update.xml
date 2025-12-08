@@ -2,6 +2,7 @@
 <item>
   <version>25.12.7.2243</version>
   <url>https://alvaroalvarado657.github.io/JDIGITAL/Release.zip</url>
+  <changelog></changelog>  
   <mandatory>true</mandatory>
-  <changelog></changelog>
+  
 </item>
